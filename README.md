@@ -1,5 +1,7 @@
 # ubl
-JavaScript Universal Bundle Loader
+JavaScript Universal Bundle Loader.
+
+[Live demo](https://webreflection.github.io/ubl/).
 
 ```html
 <!DOCTYPE html>
