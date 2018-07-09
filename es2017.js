@@ -1,5 +1,6 @@
-addEventListener('load', async () => {
+console.log('ES2017');
+addEventListener('load', () => {
   document.body.appendChild(
     document.createElement('p')
-  ).textContent = await 'ES2017';
+  ).textContent = 'ES2017';
 });
